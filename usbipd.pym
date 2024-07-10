@@ -129,5 +129,5 @@ refresh()
 refresh_button = tk.Button(root, text="Refresh", command=refresh)
 refresh_button.pack(pady=5)
 
-# Start the main loop
+# 开始主循环
 root.mainloop()
